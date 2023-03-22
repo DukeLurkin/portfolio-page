@@ -1,5 +1,5 @@
 # Portfolio Page
-our first challenge with all the divs
+Creating a portfolio page for current and upcoming projects
 
 
 
