@@ -51,5 +51,5 @@ Please refer to license in the repo
 https://dukelurkin.github.io/portfolio-page
 
 ## Image
-![image](assets\images\portfolio-page-image.png)
+![image](./assets/images/portfolio-page-image.png)
 
